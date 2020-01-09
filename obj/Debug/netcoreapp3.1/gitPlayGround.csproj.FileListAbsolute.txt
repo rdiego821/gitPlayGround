@@ -1,0 +1,11 @@
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\bin\Debug\netcoreapp3.1\gitPlayGround.exe
+C:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\bin\Debug\netcoreapp3.1\gitPlayGround.deps.json
+C:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\bin\Debug\netcoreapp3.1\gitPlayGround.runtimeconfig.json
+C:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\bin\Debug\netcoreapp3.1\gitPlayGround.runtimeconfig.dev.json
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\bin\Debug\netcoreapp3.1\gitPlayGround.dll
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\bin\Debug\netcoreapp3.1\gitPlayGround.pdb
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\obj\Debug\netcoreapp3.1\gitPlayGround.csprojAssemblyReference.cache
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\obj\Debug\netcoreapp3.1\gitPlayGround.AssemblyInfoInputs.cache
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\obj\Debug\netcoreapp3.1\gitPlayGround.AssemblyInfo.cs
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\obj\Debug\netcoreapp3.1\gitPlayGround.dll
+c:\Users\cagomez\Desktop\gitPlayground\gitPlayGround\obj\Debug\netcoreapp3.1\gitPlayGround.pdb
